@@ -30,13 +30,13 @@ tests/
 
 ## screenshots
   ### Login Page
-![Login Page](screenshots/login-page.png)
+![Login Page](screenshots/login-page.jpg)
 
 ### Successful Login
-![Login Success](screenshots/login-success.png)
+![Login Success](screenshots/login-success-standard_user.png)
 
 ### Failed Login
-![Login Failed](screenshots/login-failed.png)
+![Login Failed](screenshots/login-failed-wrong_user.png)
 
 ## How to Run
 ```bash
